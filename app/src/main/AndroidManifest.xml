@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".recyclerview.RecyclerViewActivity"></activity>
+        <activity android:name=".logic.LogicActivity"></activity>
+        <activity android:name=".recyclerview.RecyclerViewActivity" />
         <activity android:name=".bottomNav_Fragment.HomeActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
